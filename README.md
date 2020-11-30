@@ -24,7 +24,6 @@
 - I'm 23 years old.
 - Feira de Santana, BA - Brasil.
 - Full Stack Developer.
-- Rocketseat GoStack Student.
 
 #### 💻 My Skills
 
