@@ -33,7 +33,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
 </div>
 
-###
-<img href="https://github.com/srsantosdev/srsantosdev/blob/output/snake.svg" alt="Snake animation" />
-
-###
